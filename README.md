@@ -14,7 +14,9 @@ Instaloader is a tool to download pictures (or videos) along with their captions
 - Open project
 - Project dengan nama file 'AFNY, NILATIL_Assignment4' terdapat titik-titik yang harus di isi sebelum melakukan 'Run Module' dengan mengikuti arahan comment dalam project
 - Kemudian 'Run Module', tunggu hingga run selesai
-- Terakhir anda akan mendapatkan data dalam bentuk CSV
+- Hasil run awal akan menampilkan daftar Ghost Followers untuk target akun pertama
+- Data yang diolah merupakan followers akun target, dan followers dari akun followers (level 2)
+- Terakhir anda akan mendapatkan data kolom account, post, tag, likes dan comment yang sudah di split dalam bentuk CSV
 
 # Kontak
 - AFNY (1313618002) - @afnyyyy - afny27@gmail.com
